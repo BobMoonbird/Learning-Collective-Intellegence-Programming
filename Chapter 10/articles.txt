@@ -1,0 +1,1365 @@
+Our favorite stuff
+44.1964953955 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.724687429471 ['down', 'there', 'water', 'first', 'some', 'line']
+0.267940749247 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+The Coffee Test
+1.17077589707 ['they', 'were', 'then', 'very', 'what', 'down']
+0.323726219618 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.189171904877 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Taking off the developer goggles
+46.1128876024 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+3.48431464682 ['they', 'were', 'then', 'very', 'what', 'down']
+2.20489913795 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Reproducible research isn't just for academia
+26.0896287757 ['8217', 'they', '8212', 'data', 'without', 'brand']
+3.54414683333 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.617143211034 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Welcome Jay Ohms, programmer
+2.95003279896 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.17743549177 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.03125328778 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+VIDEO: Did y&#8217;all know you can share stuff…
+2.09031713255 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.430965185007 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.105283724888 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Behind the scenes: From Herding Cats to Finishing a Project Together
+8.26734419903 ['8217', 'they', '8212', 'data', 'without', 'brand']
+2.30432815304 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.4317581937 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Solo
+38.6527740055 ['work', 'make', 'would', 'solo', 'want', 'show']
+3.1156412008 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.96359027724 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+When Disaster Strikes
+5.68190273175 ['8217', 'they', '8212', 'data', 'without', 'brand']
+1.97969796775 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.43782806598 ['down', 'there', 'water', 'first', 'some', 'line']
+
+37 pieces of life-changing business advice you'll have to see to believe
+9.76425249593 ['flights', 'when', 'best', 'will', 'away', 'people']
+5.52455401915 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+4.67058830623 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Public service thread
+1.64943417594 ['they', 'were', 'then', 'very', 'what', 'down']
+1.4352350983 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.42009041547 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Friday Evening Thread
+0.176949261953 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.0223293780741 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.000143849359997 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Happy Hour Thread
+0.0734806308574 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.0541458308489 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.0375414502653 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Who Cares?
+2.52384881638 ['they', 'were', 'then', 'very', 'what', 'down']
+2.1064852811 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.13437888072 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+The War On Easter
+0.213445398796 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.06233325605e-32 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+2.80727344682e-37 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+America's Worst Humans
+0.0418039879307 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.000257331805635 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+3.25026328932e-08 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Two Systems
+3.58949035462 ['they', 'were', 'then', 'very', 'what', 'down']
+1.79138295432 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.584805231382 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Jobs
+0.0821664828707 ['down', 'there', 'water', 'first', 'some', 'line']
+0.0604236528148 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0270191709117 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Logic
+1.08755982691 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.506794764847 ['they', 'were', 'then', 'very', 'what', 'down']
+0.498504056752 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Morning Thread
+0.0195821015706 ['they', 'were', 'then', 'very', 'what', 'down']
+0.00469656483433 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.00400200263525 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Late Night
+0.0336317417534 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+9.99517500794e-42 ['work', 'make', 'would', 'solo', 'want', 'show']
+2.48959008631e-56 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Thursday Evening
+1.65826859308 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.135687334192 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.080435051443 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+A Happy Hour
+0.613218337286 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.0310550860184 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.0310244178741 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Dancing With Molly
+0.223947233692 ['down', 'there', 'water', 'first', 'some', 'line']
+0.106680144119 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.0914736043805 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Afternoon Thread
+0.0 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.0 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.0 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Probably A Good Idea Then
+0.437455043278 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.228521064985 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.17848106372 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+SEVEN HOURS
+0.70699655753 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.535003040646 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.416856327053 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+America's Worst Governor
+0.567945857142 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.475922344144 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.127728670698 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Wednesday Night
+0.0552176791354 ['week', 'search', 'searches', 'people', 'than', 'were']
+8.63774316794e-38 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+3.45326796196e-174 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Ruh-Roh
+0.247416687202 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.112371519978 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0830785869591 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Back In My Day
+4.25562329686 ['they', 'were', 'then', 'very', 'what', 'down']
+1.17499280918 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.634671373893 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Drought
+0.205836170058 ['they', 'were', 'then', 'very', 'what', 'down']
+0.0926032814233 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.0100087663348 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Unexamined
+1.84696107363 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.0481369545 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.888281788219 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+How to Be a Demo God
+1.421981614 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.97009119595 ['they', 'were', 'then', 'very', 'what', 'down']
+0.161152655836 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+GuyStockphotos from #SMMW15
+1.02666810218 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.471034695156 ['down', 'there', 'water', 'first', 'some', 'line']
+0.16551226801 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Best Hotel for SXSW
+1.92928907353 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.900114775926 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.591008380743 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Guy Kawasaki appointed to the Board of Trustees of the Wikimedia Foundation
+1.15935226806 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.429780227158 ['down', 'there', 'water', 'first', 'some', 'line']
+0.146672675242 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+
+The Art of Leading
+1.21331728688 ['they', 'were', 'then', 'very', 'what', 'down']
+1.15701406107 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.68754230473 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+The Art of Keeping Things Simple
+1.27832847413 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.25119264373 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.726017386997 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Step aside Vince, here comes GuyStockphoto
+2.16034046259 ['8217', 'they', '8212', 'data', 'without', 'brand']
+1.11160559084 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.415605090837 ['they', 'were', 'then', 'very', 'what', 'down']
+
+My Love of Meerkat and a Hope That Another Company Will Embrace It Too
+1.79162733532 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.88883420976 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.767793529135 ['down', 'there', 'water', 'first', 'some', 'line']
+
+The Art of the Keynote
+0.85034158865 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.456948094808 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.35813054673 ['down', 'there', 'water', 'first', 'some', 'line']
+
+The Art of the Pitch
+0.580950039242 ['down', 'there', 'water', 'first', 'some', 'line']
+0.259555539999 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.239388347579 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+The Emperor's Garden
+2.10435956208 ['they', 'were', 'then', 'very', 'what', 'down']
+1.70772026138 ['work', 'make', 'would', 'solo', 'want', 'show']
+1.60856403576 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Color Sound Machine (and what else I've been doing lately)
+1.77426680327 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.896461568345 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.388560730414 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Google drops reverse phone number lookup
+1.03099635974 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.45055412729 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.409100527479 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Idea: Topical Chat
+2.39397800599 ['down', 'there', 'water', 'first', 'some', 'line']
+1.65952366736 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.959432081968 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Idea: CrowdChat
+3.22457949258 ['they', 'were', 'then', 'very', 'what', 'down']
+1.57928269063 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.04411435796 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Google Body Browser
+0.543389401357 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+0.503128661896 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+0.235578128523 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Pictures of the Cr-48
+0.575119313015 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.437985800162 ['they', 'were', 'then', 'very', 'what', 'down']
+0.368940623356 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Chromedroidpad
+2.50990408223 ['work', 'make', 'would', 'solo', 'want', 'show']
+1.24376886109 ['down', 'there', 'water', 'first', 'some', 'line']
+0.970284222482 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Device Evolution
+3.49030184978 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+2.86034813114 ['they', 'were', 'then', 'very', 'what', 'down']
+1.51774494689 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+How to Disable Google Instant Previews
+2.48152860342 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.74178456788 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.97143945306 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Google's Newest Q&A Service: "baraza"
+0.966744115388 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+0.688417534571 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.605808168886 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Taped an iPhone to my remote-controlled car and hit the Record button
+0.133352512185 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.04312969864 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.0283871645465 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Playable JavaScript app of my new iPad game Knights vs Knightesses (Google Chrome/ Safari needed)
+0.714514869589 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+0.409496763519 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.354962562115 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Which of your websites, deleted or lost years ago (or on a backup in a box you can't seem to find), would you most like to get back?
+0.961860975389 ['they', 'were', 'then', 'very', 'what', 'down']
+0.873249483845 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.79768649859 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+See a Random Street View Location
+0.399953770213 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.148112378167 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.136597613227 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+
+Google Faces More Antitrust Trouble in Europe
+0.566722351541 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.217616888864 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.154528269981 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+The Best SEO Tools – 2015 Edition
+0.929950231141 ['they', 'were', 'then', 'very', 'what', 'down']
+0.639943693901 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.448391855305 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Let’s Talk Mobile, Shall We? [#CZLNY]
+1.02075529152 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.447282208509 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.189294404552 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+5 Tips to Boost Your Video SEO Strategy [#CZLNY]
+0.984264967311 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.399120281044 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.388710491459 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Google’s Doorway Algorithm Update
+0.252589505635 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.223830747842 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.138720334653 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+VIDEO: The Home Depot on Landing Page Optimization [#CZLNY]
+0.311945045717 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.129660245839 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.106239315533 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Mobile Searchers Have Local Intent: 7 Quick Wins [#CZLNY]
+0.98195370403 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.565908466935 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.392288531182 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Mobile Optimization and the Google Algorithm Change – 7 Steps to Stay Friendly
+1.27483525916 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.711399950659 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.69398842946 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Using Key PR Messages in Content Creation for SEO
+0.377544998595 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.273101436482 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.204194128707 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+The Power of Persuasion: ABCs of Leveraging Personas for Search Success [#CZLNY]
+0.979149496517 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.360652020227 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.171328583245 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Flexibility Is Key for SEOs [#CZLNY]
+0.54447156361 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.168266766165 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.125636541476 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Backlink Bummers: 5 Clues to Off-Site SEO Trouble
+0.641417712579 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.229993813199 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.186645503776 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+5 New Types of Content for the Future of Marketing
+0.934344811688 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.900526010787 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.640109497311 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Amazon Gives Google a Run for Its Money With Home Services
+0.747166585289 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.420537538942 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.274560596343 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+5 Trends to Watch in the Mobile-First Search Era
+0.967103042002 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.234763263979 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.21691046496 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Natural Links – What Are They, Really?
+1.83220252541 ['they', 'were', 'then', 'very', 'what', 'down']
+0.607495330616 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.391406216946 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+5 Tips to Make Your Marketing Stand Out Like a Purple Cow [#SESMiami]
+0.924680628739 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.579852066607 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.42465430705 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Are You #Winning at Google Shopping Campaigns?
+0.601705781648 ['down', 'there', 'water', 'first', 'some', 'line']
+0.284137040771 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.0757763775068 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Google Loses Safari Web Tracking Court of Appeal Case
+0.0629697077771 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.0340966259199 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.0317214049107 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Google’s Mobile Algorithm Puts Customers First [#SESMiami]
+0.938031582932 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.400779336634 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.266303341067 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Ad Blocking: The Good, the Bad, and the Ugly
+0.522358365728 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.145682405815 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+0.129794854652 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Hacking the Google Display Network for Insanely Low CPC
+0.563666642661 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+0.354496322991 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.352912776451 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Google’s New Program Aims to Get Local Businesses Online
+2.55744337503 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.345689476716 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.0228892951191 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Hilton Uses Google Hotel Ads to Entice New Customers
+0.417013807037 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.148832470882 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.0852755828654 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Help! My Penalty Was Lifted, But Traffic Has Not Increased
+0.398140754671 ['they', 'were', 'then', 'very', 'what', 'down']
+0.33192699454 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.310356055962 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Optimizing for AdWords Display Campaigns: Demographics, Ads, Mobile
+0.407474626727 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.35963832677 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.0503876462202 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Optimizing Your Brand Performance on Shopping Ads
+0.907669499467 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.211600013051 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.0559422933854 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Little Fanfare as Yahoo Leaves China
+0.280643256056 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.170818072923 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.159554807022 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Bing's Unified Device Targeting Arrives
+0.511379180255 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.31059734516 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.189499717858 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+3 "Easy" Questions SEOs Must Ask Themselves
+0.768490442856 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.35194178733 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.026082809574 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+2 Reasons It Might Be OK for Keywords to Miss Their ROAS Target
+0.670701011859 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.560682029697 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.219618798071 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+FTC Report Details How Google Manipulates Search Market
+0.949567557612 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.302812024743 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.032712105735 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+Google Analytics for SEO – Basic Cohort Analysis
+1.10743920452 ['they', 'were', 'then', 'very', 'what', 'down']
+0.641173522619 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.570727620267 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Yahoo's Search Share on the Decline
+1.01911579041 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.3544044127 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.171625222397 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Checklist: Launching a Site Redesign
+0.3374610689 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.265621455551 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.21959060184 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Incorporating Hispanic Marketing to Your Search Marketing Strategy
+0.92281600219 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.394550657854 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+8.26276041831e-07 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+
+Google Simplifies Top Movers Report, Autofill on Mobile
+0.425753264625 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.305801582873 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.247459889908 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Heating Up the Search Scene in Southern Florida at SES Miami
+0.611824121914 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.262606104434 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.19096406656 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Tracking the Evolution of Google Panda Updates – From Monthly to Tremors to Missing in Action
+0.663598619151 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.388018106895 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.356351417065 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+PPC Budget Strategy 101
+0.629645920366 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.239718556773 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0404548250106 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Topix at the White House: Innovating to Improve Disaster Response and Recovery
+3.01346531348 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.895380051443 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.563564365451 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Politix Celebrates Innovation and Civic Engagement
+1.90078779274 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.371525656849 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.0454568190537 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Happy Birthday, Politix!
+0.569391601861 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.45351396983 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.419885825937 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Chris' Interview with IdeaMensch
+0.405713218317 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.271628880098 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.138211058549 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+New Politix Editor-in-Chief
+3.39853092686 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.34553266495 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.0996960629307 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Introducing Politix
+0.773449126187 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.680598978627 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.368241631144 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Topix Forum Helps Educate Locals On Proposed School Merger
+1.02819752418 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.497875296768 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.484280874397 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Hyperlocal Sites Set To Play An Important Role in the 2012 Elections
+0.436546871354 ['they', 'were', 'then', 'very', 'what', 'down']
+0.37354473571 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.112320531893 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Research Shows Big Link Between Commenting Online & Voting
+1.216588458 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+1.07942441832 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.707904505957 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Politicians Take Note: Women Are Attracted To News Aggregators
+1.73283672326 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.377547572537 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.359556105253 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Rules Of Engagement
+0.875960514685 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.612688538955 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.550141330101 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Survey Says...Hyperlocal Ads Sales Are On The Upswing
+1.29296374214 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.586239107179 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.235886146912 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+"A Land Grab is on in in HyperLocal"
+1.09759947991 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.426067256794 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.199829882473 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Topix Honored with OnMedia 100 Award
+0.784570454159 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.482137636318 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.443731329919 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Is That A Post In Your Pocket Or Are You Just Happy To Be On Topix?
+2.07866567604 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.38311914225 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.695729181784 ['they', 'were', 'then', 'very', 'what', 'down']
+
+New window has both Pale Moon button and menu - solution
+13.8773551795 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+0.37469444516 ['moon', 'folder', 'pale', 'tool', 'settings', 'migration']
+0.290600335413 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Zotero & Pale Moon - "An error has occurred…"
+43.7875254461 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+5.05532228949 ['moon', 'folder', 'pale', 'tool', 'settings', 'migration']
+1.45967412034 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Kitchen timer / stopwatch review - numeric buttons!
+3.22572599383 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+1.50048977914 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+1.21362050689 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Nominative determinism 13
+0.995536021565 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.607402513509 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.289632878877 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Shampoo on Amazon - for millionaires only!
+0.533791207754 ['they', 'were', 'then', 'very', 'what', 'down']
+0.281819725708 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.262794923736 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Zotero & Pale Moon - solve Word communication error
+59.9852363726 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+12.5601597596 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+3.68594387084 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Fix Pale Moon migration tool problem
+51.5354159388 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+37.420758049 ['moon', 'folder', 'pale', 'tool', 'settings', 'migration']
+1.54353238602 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Pale Moon browser review - best Firefox alternative
+55.8915727594 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+48.4008361473 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+16.5102062679 ['moon', 'folder', 'pale', 'tool', 'settings', 'migration']
+
+Problems with Firefox 29 (& 30)? - possible fixes
+58.2359488099 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+6.19400857313 ['firefox', 'moon', 'pale', 'bookmarks', 'browser', 'session']
+0.422118974282 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+
+Duck What?! Go
+0.960413858152 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.551862292372 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.495542522283 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+My son on manliness
+0.383964171457 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.156107411809 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0916495204973 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+BaconGameJam – Dark Arena
+1.18818386517 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.526088200993 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.278352575032 ['down', 'there', 'water', 'first', 'some', 'line']
+
+#1GAM January 2013: 115
+0.505640833532 ['down', 'there', 'water', 'first', 'some', 'line']
+0.418248872921 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.263460383527 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+#1GAM February 2013: Meteor Defense
+0.376105009329 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.279043306686 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.258668244367 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+#1GAM March 2013: Reverse Invaders
+1.0752584233 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.534250175019 ['they', 'were', 'then', 'very', 'what', 'down']
+0.255130947 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+#1GAM April 2013: Jellyfish Escape
+0.555596865453 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.433788449248 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.386948843459 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+#1GAM May 2013: Duel!
+2.24537852555 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.176793293469 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.16310947015 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Pants
+1.001560514 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.121087504436 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.0714800870584 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+It. Just. Works.
+1.09409930963 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.516215635748 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.50666062861 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+
+Cycling + Google Spreadsheets
+0.997488632158 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.384629128739 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.286857573985 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Guys I'm Not Sure This Senator Knows How the Internet Works
+0.514031808338 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.335217916778 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.298138755888 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Your Best Apple Watch Glimpse Yet In Four Official Videos
+1.77052147711 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.22942020992 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.918906800408 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Let's Talk About Whatever You Want Right Now
+0.627644466739 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.618836422583 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.531168979648 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+John Deere Thinks People Will Pirate Music With In-Car Computers
+1.03471478858 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.478233284797 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.280764538861 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Can You Guess a City By Its Transit Stops Alone?
+0.590165375193 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.430595515704 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.199968829564 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Deadspin No One Bid On Jay Cutler’s Autographed Football At A Charity Auction | Jezebel These Dance
+0.570740214858 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.475115055635 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.370186847492 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+VR Porn Has Made Some Progress With Breasts, At Least
+0.65559522914 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.64824101297 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.43090129884 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Inside Morgellons, the Internet's Disease
+0.960631585113 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.398007078498 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.300175573086 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+How We Underestimated the iPad
+1.45299552332 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.558749659636 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.411513103805 ['they', 'were', 'then', 'very', 'what', 'down']
+
+The Ultimate Peeps Marshmallow Milk Cocktails For Your Easter Brunch
+0.566385743729 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.423737838037 ['they', 'were', 'then', 'very', 'what', 'down']
+0.244071717933 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+The Subzero Lab Where Scientists Recreate Avalanches In a Box
+0.759989182497 ['down', 'there', 'water', 'first', 'some', 'line']
+0.597129420833 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.327956853722 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Here's A Map That Shows All The Future Megacities From Science Fiction
+0.95331487392 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.413538965112 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.218500037929 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Monkeys Can't Stop Eating India's Delicious Fiber Optic Cables
+0.666088384508 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.484686539907 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+0.428588558283 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Cool photo of 12 US Air Force Stratotanker refueling planes in a row
+0.274885692529 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.228770945925 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.178972006009 ['down', 'there', 'water', 'first', 'some', 'line']
+
+An Extra $1000 Buys You a Fancy Hotline For Your Fancy Gold Apple Watch
+0.771028047222 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.536042610196 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.262732865396 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Most Popular Umbrella: GustBuster
+1.11735970115 ['they', 'were', 'then', 'very', 'what', 'down']
+0.747705986331 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.593786871444 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Lessons Learned From A Year Living In A Van
+0.499110769662 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.490055258677 ['down', 'there', 'water', 'first', 'some', 'line']
+0.347636386592 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+The Best Nerf Gun for Every Kid (At Heart)
+0.540818996614 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.46668202214 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.396663774329 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Why One Kind of Disposable Coffee Cup Lid Dominates All The Rest
+0.239933178463 ['they', 'were', 'then', 'very', 'what', 'down']
+0.163509952139 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0910651347582 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+The Best Action Camera For Every Need
+0.97008382492 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.824808660693 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.479302551601 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Fugs and Pieces, June 22, 2012
+2.02969077002 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.656153524465 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.143990244 ['moon', 'folder', 'pale', 'tool', 'settings', 'migration']
+
+Well Played, Michelle Williams
+1.26696742936 ['8217', 'they', '8212', 'data', 'without', 'brand']
+1.18039583657 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.310466317253 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Fuglee Simpson
+2.07079044387 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.657444403181 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.442997915758 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+The Amazing Spider-Fug
+1.81551193405 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.521361429605 ['they', 'were', 'then', 'very', 'what', 'down']
+0.516790993404 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Fugbledon
+1.82810050979 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.563405532763 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.480318762747 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Well Played, Royal Ascot
+1.86827670619 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.472682079894 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.173204399025 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Fug the Cover: J.Lo
+1.26927856059 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.915602893809 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.536821841093 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Fug or Fab: Penelope Cruz
+2.33772695879 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.542844469317 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.437536288674 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Fugs and Fabs: Mamie Gummer
+1.80718287287 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+1.18148525212 ['8217', 'they', '8212', 'data', 'without', 'brand']
+0.535120693582 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Greta Fugwig
+3.87685286669 ['8217', 'they', '8212', 'data', 'without', 'brand']
+1.15919932501 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.439670686256 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Through the Google lens: Search trends March 27 - April 2
+16.240995059 ['week', 'search', 'searches', 'people', 'than', 'were']
+3.61523325714 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.57571271844 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Smartbox by Inbox: the mailbox of tomorrow, today
+0.877855177414 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.602112899999 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.484003017315 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Through the Google lens: Search trends March 20-26
+25.2947026638 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.594061576192 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.586188855398 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+It's time to put America’s small businesses on the map
+47.9687621961 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.128116563192 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+0.0338045574903 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Through the Google lens: Search trends March 13-19
+31.1334311352 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.29632052301 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.287202216263 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Bringing street art to your daily life
+2.25908960485 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.23002814408 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+2.12768721328 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Celebrating 30 years of .COM and the future of .DOMAINS
+6.07976076683 ['they', 'were', 'then', 'very', 'what', 'down']
+4.23950404541 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+3.60298383638 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Through the Google lens: Search trends March 6 - 12
+11.9618853066 ['week', 'search', 'searches', 'people', 'than', 'were']
+2.78272835252 ['they', 'were', 'then', 'very', 'what', 'down']
+2.02253840738 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Protecting people across the web with Google Safe Browsing
+48.7844349868 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.0428668917176 ['they', 'were', 'then', 'very', 'what', 'down']
+0.0220923277741 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+
+Meet the updated Chromebook Pixel and the new Google Store
+11.5391252036 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+4.32533899564 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+3.68149798148 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Connect. Create. Celebrate women in technology.
+36.8080987213 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.0902760373952 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0494231959681 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+Through the Google lens: Search trends February 27- March 5
+12.2251428835 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.97919710859 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.799767648967 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+
+Through the Google lens: Search trends February 20-26
+14.5147640339 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.45445443715 ['they', 'were', 'then', 'very', 'what', 'down']
+1.01144346706 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Rethinking office space
+3.76227326344 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+3.73577774609 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.52312228781 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Get away with Google Flights
+41.3893304594 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.111907607179 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.107019017272 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Expanding opportunities through computer science education
+20.3807246519 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+5.72714773278 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+2.67031738459 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Our first building block in tech for tykes: YouTube Kids
+5.36734000934 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+3.17745356762 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.00467707013 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Through the Google lens: Search trends February 13-19
+15.4472939693 ['week', 'search', 'searches', 'people', 'than', 'were']
+5.4653391312 ['flights', 'when', 'best', 'will', 'away', 'people']
+3.37177536725 ['nbsp', 'word', 'zotero', 'moon', 'pale', 'open']
+
+Google Science Fair 2015: what will you try?
+8.60421795871 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+3.20526101463 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.721182079755 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Through the Google lens: Search trends February 6-12
+22.4223252571 ['week', 'search', 'searches', 'people', 'than', 'were']
+2.284952764 ['down', 'there', 'water', 'first', 'some', 'line']
+1.33258926285 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+From Altamont Pass to Mountain View: Getting more renewable energy on the grid
+4.58405011796 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+3.45630027297 ['work', 'make', 'would', 'solo', 'want', 'show']
+3.30289134175 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Take a Security Checkup on Safer Internet Day
+5.88518764927 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+2.77042531729 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+2.44180467528 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+A remedy for your health-related questions: health info in the Knowledge Graph
+6.87466712299 ['flights', 'when', 'best', 'will', 'away', 'people']
+5.33956298824 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+2.08865699984 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Through the Google lens: Search trends January 30 - February 5
+11.7007973509 ['week', 'search', 'searches', 'people', 'than', 'were']
+3.96509193696 ['flights', 'when', 'best', 'will', 'away', 'people']
+3.24653688727 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Google RISE Awards support girls and minorities in tech—from Australia to Mexico
+31.0704242296 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+2.4558105842 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+1.37546897561 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Google's Colorful Help Centers
+2.67356685346 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+1.32847000239 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.953684270905 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Google Contacts Preview and Gmail
+0.728747549439 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.649486163145 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+0.516117294288 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Using Google Photos in Google Drive for Desktop
+34.3222350602 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.00901621587504 ['they', 'were', 'then', 'very', 'what', 'down']
+0.00595204965961 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Google Spam
+3.25512432638 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.56965853482 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.23830883536 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Google Play Store Adds Fire Warning Icon
+2.00133316657 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+1.57021113969 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.03322831343 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Google April Fools' Day 2015
+5.73439523421 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+4.75839643994 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+3.65468761376 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Play Pac-Man in Google Maps
+1.26404965271 ['down', 'there', 'water', 'first', 'some', 'line']
+0.875227483463 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.826881071168 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+
+Chrome Selfie: Share a Reaction
+1.19590595736 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+1.13145696955 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+1.09433258143 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Unified Inbox in Gmail for Android
+1.93408717467 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.70277531792 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.85687395409 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Chrome Data Saver
+2.84051890728 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.825375538151 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.639702939083 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Google Photos in Google Drive
+20.2911482028 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.644045883154 ['down', 'there', 'water', 'first', 'some', 'line']
+0.524935353314 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Google Keep Labels
+1.79389508042 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+1.05426456989 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.918833585743 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Colorful Knowledge Graph Cards
+0.886013199007 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.579211695843 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.378920898929 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+YouTube Autoplay, Enabled by Default
+15.4791783523 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.985529464059 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.662912485333 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Google Feud: Guess Google's Suggestions
+1.48473013835 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.26431802433 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.21510654259 ['down', 'there', 'water', 'first', 'some', 'line']
+
+YouTube Global Search
+14.7170119148 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+9.28536287499 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.534453282023 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+
+360-Degree YouTube Videos
+6.28507649585 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+3.18887595402 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.75285847363 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Shared With Me, Back in Google Drive
+3.49348518901 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.872901936922 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+0.805690645923 ['they', 'were', 'then', 'very', 'what', 'down']
+
+YouTube Caches Videos
+9.58081343222 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+1.31962181956 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+1.13772104394 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Google Inbox Links to Google Contacts
+0.437678040582 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.329021400531 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.308053397798 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+My Favorite Graphs... and the future
+0.749691942247 ['down', 'there', 'water', 'first', 'some', 'line']
+0.534046262011 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+0.458325365518 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Death threats against bloggers are NOT "protected speech" (why I cancelled my ETech presentations)
+0.386574543468 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.364911020946 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.343342046088 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Update/Joint Statement with Chris Locke
+0.519820523817 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.249221171775 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.235483700201 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+User Community and ROI
+0.929112556853 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.715004286431 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.304301415227 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Is your app an ass-kisser?
+1.35479677839 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.681014369233 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.493321036944 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Random Tuesday Links
+0.277056328238 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.164791606341 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.149229654848 ['pale', 'moon', 'menu', 'there', 'then', 'zotero']
+
+Helping users "feel the fear and do it anyway"
+0.52507176005 ['they', 'were', 'then', 'very', 'what', 'down']
+0.333638875585 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+0.292090963445 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+How to host a product/feature design party
+1.17845196049 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.296890196398 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.12092067917 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+
+Seven Blog Virtues (for a Global Microbrand)
+1.09417365658 ['they', 'were', 'then', 'very', 'what', 'down']
+0.192337312767 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.136201083011 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Is Twitter TOO good?
+0.163386356768 ['they', 'were', 'then', 'very', 'what', 'down']
+0.101845449875 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.0909452670053 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+I'm Blogging Elsewhere
+1.80396186567 ['down', 'there', 'water', 'first', 'some', 'line']
+1.58042425683 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.43057224174 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Zip Line and Rappelling Adventure in Puerto Vallarta
+61.4767009315 ['down', 'there', 'water', 'first', 'some', 'line']
+42.0622219086 ['they', 'were', 'then', 'very', 'what', 'down']
+0.768960283411 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Paper vs. Screen
+1.98522947527 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+1.51491783882 ['work', 'make', 'would', 'solo', 'want', 'show']
+1.51370341666 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Remembering Barnes
+11.8949211147 ['they', 'were', 'then', 'very', 'what', 'down']
+1.77900853996 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+1.54361804177 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Sphinx and Gearman: A Distributed Computing AH-HA! Moment
+2.46641164775 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.07005288687 ['work', 'make', 'would', 'solo', 'want', 'show']
+1.6813789167 ['they', 'were', 'then', 'very', 'what', 'down']
+
+On the MyBlogLog Shutdown
+3.92463527155 ['they', 'were', 'then', 'very', 'what', 'down']
+3.4471695283 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+2.97698386773 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Trust Oracle?  Why?
+25.0221771834 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+6.94439193204 ['they', 'were', 'then', 'very', 'what', 'down']
+0.088537754445 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+Weird Email People Send Me
+1.71678621911 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.33403549742 ['they', 'were', 'then', 'very', 'what', 'down']
+1.30524983603 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Speaking at San Francisco MySQL Meetup
+1.99559396728 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.18505440107 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.892710971495 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Fixing Poor MySQL Default Configuration Values
+21.6675656488 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+5.76391670095 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.14152172721 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Why Bitcoin is and isn't like the Internet
+0.799870279657 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.626062748941 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.428154804089 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Beyond "The Uncanny Valley"
+0.717779563383 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.38744175527 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.347704230315 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Why I joined PureTech
+0.25198774695 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.200146427645 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.188939445133 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Antidisciplinary
+0.854579228709 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.776656850093 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.425449220876 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Gurus, goals and mindfulness
+0.314424660689 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.262547251467 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+0.203217537499 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Kitchen counter bio hacking
+0.949945035541 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.39775234083 ['they', 'were', 'then', 'very', 'what', 'down']
+0.355326767771 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Shenzhen trip report - visiting the world's manufacturing ecosystem
+0.572042658352 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.437401158906 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.249592500942 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+My answers to six questions
+0.486726301857 ['they', 'were', 'then', 'very', 'what', 'down']
+0.296257498735 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.271895107156 ['safe', 'browsing', 'sites', 'people', 'users', 'site']
+
+Designing Around Little Minds
+0.377754023557 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.0927342937393 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.066909003925 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+The Creativity Compass
+1.7276293343 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.853177929976 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.0609547909381 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Ito to Finally Get a Degree
+0.232067224997 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.202450044435 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.171625316071 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+My foreword to "Writing My Wrongs" by Shaka Senghor
+1.18396638003 ['photos', 'drive', 'videos', 'them', 'folder', 'access']
+0.855313599828 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.455941468885 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Dentsu invests in Digital Garage and joins our family
+0.215326456256 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.157457339574 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.117403475052 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Time to get cranking on our book
+0.520542258273 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.376165637328 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.332525887907 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Please help us Free Bassel, open source developer and CC volunteer
+0.399925714192 ['they', 'were', 'then', 'very', 'what', 'down']
+0.368767772933 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.231848956813 ['zotero', 'pale', 'error', 'moon', 'click', 'just']
+
+'Furious 7' tribute to Paul Walker leaves fans in tears
+2.48745908675 ['they', 'were', 'then', 'very', 'what', 'down']
+1.20232243782 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.668423546504 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+7 sex toys to hide in your Easter basket
+0.914631490922 ['they', 'were', 'then', 'very', 'what', 'down']
+0.547299047396 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.544470940825 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Luxury hotel proposed for the Swiss Alps would stand 1,250 feet tall
+1.47277455032 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.8679935123 ['down', 'there', 'water', 'first', 'some', 'line']
+0.576396844622 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+600,000 sandhill cranes make stunning migration to Nebraska
+1.30448477913 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.879985676442 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.416952460429 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+'The Fast and the Furious' plot in under 10 seconds, as told by car lovers
+2.20655623199 ['they', 'were', 'then', 'very', 'what', 'down']
+1.98482215363 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.753913320251 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Leo DiCaprio is turning his $2 million island into an eco-resort to save it
+0.828963647809 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.458267254448 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.321125040522 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Sarah Brady, gun control champion and widow of James Brady, dies at 73
+1.26300620871 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.314982479673 ['down', 'there', 'water', 'first', 'some', 'line']
+0.289399116184 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+Microsoft makes it easier for Kinect for Xbox One developers with new adaptor
+1.37456224435 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.15201423659 ['week', 'search', 'searches', 'people', 'than', 'were']
+1.09881395526 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Fugitive pig loses its cool when denied service at Burger King
+0.744946248582 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.721067166577 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.657799961474 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Runway repair at JFK airport could be bad news for summer travelers
+2.83417460994 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.07813186442 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.488045824839 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Us the Duo dropped by &#8212; and they were predictably amazing
+2.33604631554 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.95915027514 ['they', 'were', 'then', 'very', 'what', 'down']
+1.52950369579 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Lumo projector turns kids' bedrooms into interactive game rooms
+1.8219314925 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.08325666069 ['down', 'there', 'water', 'first', 'some', 'line']
+0.942613402075 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Bill Gates on Microsoft's 40th birthday: 'What matters most now is what we do next'
+2.5932021036 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.62502717761 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.80696137659 ['work', 'make', 'would', 'solo', 'want', 'show']
+
+Live-action Play-Doh movie shaping into a reality at Fox
+0.999739825045 ['down', 'there', 'water', 'first', 'some', 'line']
+0.748766292738 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+0.743426907124 ['week', 'search', 'searches', 'people', 'than', 'were']
+
+Chelsea Manning is officially on Twitter
+0.847606836461 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.723025029856 ['profile', 'folder', 'tool', 'migration', 'pale', 'original']
+0.515705936051 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Cotton candy Oreos now exist and they taste like sugar
+4.60539832143 ['they', 'were', 'then', 'very', 'what', 'down']
+1.83974850519 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.09999619501 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+
+Dropbox is testing a new productivity app called 'Project Composer'
+1.46527219802 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.24102142316 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.993131867172 ['firefox', 'mozilla', 'version', 'folder', 'files', 'program']
+
+Pandas in China had sex for 8 minutes, and it's news
+1.25949181772 ['work', 'make', 'would', 'solo', 'want', 'show']
+1.15714575649 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.866804362956 ['they', 'were', 'then', 'very', 'what', 'down']
+
+Mutant antibiotic-resistant superbugs are spreading in Texas winds
+0.648667446539 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.461362772498 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+0.264837342652 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+
+'Mad Men' review: Prepare to be knocked slightly off-kilter by 'Severance'
+2.57549803329 ['flights', 'when', 'best', 'will', 'away', 'people']
+1.81122463768 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.715443866454 ['down', 'there', 'water', 'first', 'some', 'line']
+
+This image shows the future of climate modeling
+1.81231320797 ['down', 'there', 'water', 'first', 'some', 'line']
+1.43743266446 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.0146371806 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Something incredible happens when you attach a 4K camera to a drone
+1.37590820089 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.846407320965 ['work', 'make', 'would', 'solo', 'want', 'show']
+0.775839397053 ['8217', 'they', '8212', 'data', 'without', 'brand']
+
+AppleCare+ for the Apple Watch Edition reportedly costs almost $1,000
+2.17312640949 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.905047718234 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+0.825105427973 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Hillary Clinton checks out new Brooklyn digs, waits forever for the J train
+0.930696110344 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.575221167546 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.447163256381 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+Delta promises to get checked baggage to the carousel in 20 minutes or less
+4.46888406442 ['flights', 'when', 'best', 'will', 'away', 'people']
+0.404921963137 ['they', 'were', 'then', 'very', 'what', 'down']
+0.395595343212 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+
+ISIS bans skinny jeans, cigarettes and music in latest crackdown, activists say
+1.2085191245 ['their', 'mysql', 'girls', 'they', 'oracle', 'science']
+1.12679790346 ['business', 'businesses', 'online', 'local', 'marieshia', 'help']
+0.408865454923 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+
+Deion Sanders called out his son on Twitter for pretending to have street cred
+0.991851488727 ['youtube', 'video', 'videos', 'when', 'seconds', 'will']
+0.529524267691 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.370938803057 ['down', 'there', 'water', 'first', 'some', 'line']
+
+Hello again, Ford Mustang: The iconic car at 50 puts you on new roads to adventure
+1.28086045966 ['down', 'there', 'water', 'first', 'some', 'line']
+0.92212899328 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.92175793072 ['flights', 'when', 'best', 'will', 'away', 'people']
+
+Microsoft goes rogue: Windows on Android
+1.4851416921 ['basecamp', 'they', 'support', 'what', 'like', 'just']
+1.47656587111 ['down', 'there', 'water', 'first', 'some', 'line']
+0.91423463749 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
+7 Passover seders you only wish you could sit in on
+1.4950243677 ['down', 'there', 'water', 'first', 'some', 'line']
+1.13594196536 ['week', 'search', 'searches', 'people', 'than', 'were']
+0.877492556999 ['women', 'technology', 'what', 'develop', 'community', 'girl']
+
